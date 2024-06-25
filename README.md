@@ -29,7 +29,7 @@ Bunu Kullanmak Icin Kedue-Restart dosyasin resoruces dosyasin icne koyun sonra s
 
 ## Download
 
-Indirmek Icin [download](https://github.com/keduei/Kedue-Restart-/releases/tag/v1.0.0).
+Indirmek Icin [download](https://github.com/keduei/Kedue-Restart/releases/tag/v1.0.0).
 
 ## Credits
 
